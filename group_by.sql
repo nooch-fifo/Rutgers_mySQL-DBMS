@@ -1,0 +1,1 @@
+SELECT gender, max(age) FROM hospital_project.patient GROUP BY gender;
